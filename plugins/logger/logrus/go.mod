@@ -1,6 +1,6 @@
 module github.com/honorjoey/go-admin-core/plugins/logger/logrus
 
-go 1.18
+go 1.19
 
 require (
 	github.com/honorjoey/go-admin-core v0.0.2
