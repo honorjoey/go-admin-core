@@ -1,6 +1,6 @@
 module github.com/honorjoey/go-admin-core/sdk
 
-go 1.18
+go 1.19
 
 require (
 	github.com/bsm/redislock v0.8.2
