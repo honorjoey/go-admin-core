@@ -3,7 +3,6 @@ module github.com/honorjoey/go-admin-core/plugins/logger/logrus
 go 1.19
 
 require (
-	github.com/honorjoey/go-admin-core v1.3.11
 	github.com/sirupsen/logrus v1.8.0
 )
 
